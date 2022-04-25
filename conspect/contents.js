@@ -22,7 +22,7 @@ import { closure } from "./closure";//замыкание (closures)
 import { anonymFunc } from "./anonymous-func"; //Что такое анонимная функция
 import { higherOrderFunc } from "./higher-order-func";//Функция высшего порядка
 import { promisesVsAsyncAwait } from "./promises-vs-async-await"; //!!!!!!!!  Promises vs Async / Await
-import { delegation } from "./delegation"; //!!!!!!!!   делегирование событий
+import { delegation } from "./delegation"; //делегирование событий
 import { hostNativeObj } from "./host-native-obj"; //В чем разница между host и native объектами
 import { currying } from "./currying"; //Каррирование
 import { classItem } from "./class"; //!!!!!!!!   Классы
@@ -30,7 +30,17 @@ import { staticItem } from "./static"; //Статические методы К�
 import { truthyFalsy } from "./truthy-falsy"; //Truthy / Falsy
 import { anamorphCatamorph } from "./anamorph-catamorph"; // Anamorphisms and Catamorphisms
 import { eventLoop } from "./event-loop"; // Event Loop
-import { eventPropagation } from "./event-propagation";//!!!!!!!!   Что такое Event propagation
+import { eventPropagation } from "./event-propagation";//Что такое Event propagation
+import { typesData } from "./types-data"; //Які існують типи даних у JS? типы данных.
+import { isArrayItem } from "./is-array"; // проверка на массив. Як перевірити, чи об’єкт є масивом?
+import { isFiniteItem } from "./isfinite"; // Як перевірити, чи число є скінченним? проверить на конечное число
+import { isFiniteItem } from "./isfinite"; // Як перевірити (проверить), число на NaN?
+
+
+
+// Number.isNaN () отличается от глобальной функции isNaN(). Глобальная функция isNaN() преобразует тестируемое значение в число, а затем проверяет его.
+
+
 
 
 
