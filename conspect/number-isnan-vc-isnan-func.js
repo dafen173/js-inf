@@ -1,7 +1,4 @@
-
-
-
-
+export const numberIsnanVcIsnanFunc ='https://www.jsexpert.net/handbook/javascript/chislo-number/isnan/'
 
 
 // Определение и использование

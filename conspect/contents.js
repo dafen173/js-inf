@@ -13,7 +13,7 @@ import { typingStaticDynamic } from "./typing-static-dynamic"; //Що таке �
 import { clientServer } from "./client-server"; //Як клієнт взаємодіє із сервером?
 import { rest } from "./rest"; //Що таке REST?
 import { immutable } from "./immutable"; //Поясніть поняття мутабельність / іммутабельність? Які типи є мутабельними й навпаки?
-import { hoistingConstLetVar } from "./hoisting-const-let-var"; //Поднятие const, let и var
+import { hoistingConstLetVar } from "./hoisting-const-let-var"; //Поднятие const, let и var. //Порівняйте ключові слова var, let, const.
 import { hoistingFunc } from "./hoisting-func"; // Поднятие функции
 import { arrowFunc } from "./arrow-func"; // Стрелочные функции 
 import { debag } from "./debag"; //!!!!!!!!  Як шукати помилки в коді? Чи використовуєте дебагер?
@@ -33,12 +33,14 @@ import { eventLoop } from "./event-loop"; // Event Loop
 import { eventPropagation } from "./event-propagation";//Что такое Event propagation
 import { typesData } from "./types-data"; //Які існують типи даних у JS? типы данных.
 import { isArrayItem } from "./is-array"; // проверка на массив. Як перевірити, чи об’єкт є масивом?
-import { isFiniteItem } from "./isfinite"; // Як перевірити, чи число є скінченним? проверить на конечное число
-import { isFiniteItem } from "./isfinite"; // Як перевірити (проверить), число на NaN?
+import { isFiniteItem } from "./isfinite"; // Як перевірити, чи число є скінченним? проверить на конечное число. Як перевірити (проверить), число на NaN?
+import { numberIsnanVcIsnanFunc } from "./number-isnan-vc-isnan-func"; // Чим відрізняється поведінка isNaN() та Number.isNaN()? чем отличается isNaN() и Number.isNaN()
+import { scope } from "./scope"; // Що таке область видимості? Область видимости.
+import { destructuring } from "./destructuring"; // Що таке деструктуризація? Что такое деструктуризация?
+import { setTimeoutInterval } from "./settimeout-setinterval"; //Для чого призначені методи setTimeout і setInterval?
 
 
 
-// Number.isNaN () отличается от глобальной функции isNaN(). Глобальная функция isNaN() преобразует тестируемое значение в число, а затем проверяет его.
 
 
 

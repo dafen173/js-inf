@@ -2,7 +2,6 @@ export const isFiniteItem = 'https://learn.javascript.ru/number#proverka-isfinit
 
 
 
-
 // Проверка: isFinite и isNaN
 // Помните эти специальные числовые значения?
 
