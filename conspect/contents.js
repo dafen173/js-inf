@@ -36,8 +36,12 @@ import { isArrayItem } from "./is-array"; // проверка на массив.
 import { isFiniteItem } from "./isfinite"; // Як перевірити, чи число є скінченним? проверить на конечное число. Як перевірити (проверить), число на NaN?
 import { numberIsnanVcIsnanFunc } from "./number-isnan-vc-isnan-func"; // Чим відрізняється поведінка isNaN() та Number.isNaN()? чем отличается isNaN() и Number.isNaN()
 import { scope } from "./scope"; // Що таке область видимості? Область видимости.
-import { destructuring } from "./destructuring"; // Що таке деструктуризація? Что такое деструктуризация?
+import { destructuring } from "./destructuring"; //!!!!!!!!! Що таке деструктуризація? Что такое деструктуризация?
 import { setTimeoutInterval } from "./settimeout-setinterval"; //Для чого призначені методи setTimeout і setInterval?
+import { callBackVcPromisesVsAsyncAwait } from "./callback-promises-asyncawait"; //Порівняйте підходи роботи з асинхронним кодом: сallbacks vs promises vs async/await.
+import { editPrototype } from "./edit-prototype"; //Чи можна записувати нові властивості / функції в прототипи стандартних класів (Array, Object тощо)? Чому ні? У яких випадках це робити можна? Як убезпечити себе, якщо потрібно розширити прототип?
+import { arrMethods } from "./arr-methods"; //Назвіть методи масивів, які пам’ятаєте, і скажіть, для чого вони потрібні. методы массивов
+import { iteratArrMethods } from "./iterat-arr-methods"; //Які перебираючі методи масиву знаєте? У чому їхня відмінність? перебирающие методы массивов
 
 
 
