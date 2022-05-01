@@ -1,5 +1,11 @@
-
 export const thisContext = 'this at JS'
+
+// https://learn.javascript.ru/object-methods
+
+// https://learn.javascript.ru/bind
+
+
+
 
 function hello() {
     console.log('Hello', this)

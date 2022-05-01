@@ -1,4 +1,5 @@
-import { thisContext } from "./this"; // контекст this в JS 
+//сборная солянка
+import { thisContext } from "./this"; // контекст this в JS. Методи функцій bind / call / apply — навіщо і в чому різниця?
 import { starsJS } from "./stars-js"; // известности из мира JS
 import { httpMethods } from "./http-methods"; //  методы http запросов
 import { httpVersions } from "./http-versions"; // версии http протокола
@@ -18,7 +19,7 @@ import { hoistingFunc } from "./hoisting-func"; // Поднятие функци
 import { arrowFunc } from "./arrow-func"; // Стрелочные функции 
 import { debag } from "./debag"; //!!!!!!!!  Як шукати помилки в коді? Чи використовуєте дебагер?
 import { callback } from "./callback"; //обратный вызов (callbacks)
-import { closure } from "./closure";//замыкание (closures)
+import { closure } from "./closure";//!!!!!!!!      замыкание (closures)
 import { anonymFunc } from "./anonymous-func"; //Что такое анонимная функция
 import { higherOrderFunc } from "./higher-order-func";//Функция высшего порядка
 import { promisesVsAsyncAwait } from "./promises-vs-async-await"; //!!!!!!!!  Promises vs Async / Await
@@ -31,6 +32,12 @@ import { truthyFalsy } from "./truthy-falsy"; //Truthy / Falsy
 import { anamorphCatamorph } from "./anamorph-catamorph"; // Anamorphisms and Catamorphisms
 import { eventLoop } from "./event-loop"; // Event Loop
 import { eventPropagation } from "./event-propagation";//Что такое Event propagation
+import { cachingPost } from "./caching-post"; //Можно ли кэшировать Post запрос?
+import { forinForof } from "./forin-forof";// for..in отличия от  for..of
+
+
+
+//JS core
 import { typesData } from "./types-data"; //Які існують типи даних у JS? типы данных.
 import { isArrayItem } from "./is-array"; // проверка на массив. Як перевірити, чи об’єкт є масивом?
 import { isFiniteItem } from "./isfinite"; // Як перевірити, чи число є скінченним? проверить на конечное число. Як перевірити (проверить), число на NaN?
@@ -44,13 +51,50 @@ import { arrMethods } from "./arr-methods"; //Назвіть методи мас
 import { iteratArrMethods } from "./iterat-arr-methods"; //Які перебираючі методи масиву знаєте? У чому їхня відмінність? перебирающие методы массивов
 import { operators } from "./operators"; //Як працюють оператори присвоєння / порівняння / рядкові / арифметичні / бітові тощо?
 import { mapSet } from "./map-set"; //Опишіть призначення і принципи роботи з колекціями Map і Set.
+
+
+//Функции
 import { pureFunc } from "./pure-func"; // Чистые функции
 import { funcDeclaration } from "./func-declarations"; //Яка різниця між декларацією функції (function declaration) та функціональним виразом (function expression)?
 import { iife } from "./iife"; //Що таке і для чого використовують IIFE (Immediately Invoked Function Expression)?
+import { protoVcPrototype } from "./proto-vc-prototype"; //__proto__ отличия от prototype
+import { recursion } from "./recursion"; //Що таке рекурсія? рекурсия
+import { thisLoss } from "./this-loss"; //Що таке втрата контексту, коли відбувається і як їй запобігти?
+
+
+//Front-end
+import { dom } from "./dom"; //Що таке DOM?
+import { deferAsync } from "./defer-async"; //Порівняйте атрибути підключення скрипту async і defer в HTML-документі.
+import { domTable } from "./dom-table"; // DOM и таблицы
+import { innerHtmlInnerText } from "./innerhtml-innertext"; //Яка різниця між властивостями HTML-елементів innerHTML і innerText?
+import { preventDefaultItem } from "./prevent-default"; //Як зупинити дефолтну обробку події?
+import { thisAtHandler } from "./this-at-handler"; //Чому дорівнює this в обробнику подій (event handler)?
+import { localSessionStorage } from "./local-session-storage";// Що таке LocalStorage і SessionStorage? Який максимальний розмір LocalStorage?
+import { offsetHeightLeftTop } from "./offset-height-left-top"; //Як отримати висоту блоку? Його положення щодо меж документа?
+import { webpack } from "./webpack"; //Що таке webpack?
+import { devProd } from "./dev-prod"; //Чим відрізняється dev-збірка від prod?
 
 
 
 
+
+
+// DRY   KISS  YAGNI  SOLID  SLAP
+import { dry } from "./dry"; // DRY принцип
+import { kissYagni } from "./kiss-yagni"; //  KISS и YAGNI принципы
+import { solid } from "./solid.js"; // SOLID принцип
+import { slap } from "./slap"; //SLAP принцип
+
+
+
+// CSS
+// БЭМ как способ изоляции
+
+
+
+
+//REACT
+import { reactClassComponent } from "./react-class-component"; //Чи працювали з класовими компонентами? У чому їхня особливість?
 
 
 
