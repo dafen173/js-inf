@@ -77,8 +77,6 @@ import { devProd } from "./dev-prod"; //Чим відрізняється dev-з
 
 
 
-
-
 // DRY   KISS  YAGNI  SOLID  SLAP
 import { dry } from "./dry"; // DRY принцип
 import { kissYagni } from "./kiss-yagni"; //  KISS и YAGNI принципы
@@ -90,11 +88,21 @@ import { slap } from "./slap"; //SLAP принцип
 // CSS
 // БЭМ как способ изоляции
 
-
+//пагинация
 
 
 //REACT
 import { reactClassComponent } from "./react-class-component"; //Чи працювали з класовими компонентами? У чому їхня особливість?
+import { stateProps } from "./state-props"; //Які дані краще зберігати в стані компонента, а які передавати через пропси? Наведіть приклад.
+import { hooks } from "./hooks"; //Чи ознайомлені з хуками? У чому їхні переваги? Чи доводилося робити свої і з якою метою?
+import { fragmentPortal } from "./fragment-portal"; //Чи ознайомлені з фрагментами та порталами? Навіщо вони потрібні?
+import { reactRefs } from "./react-refs"; //Коли й для чого використовують рефи?
+import { componentLifecycle } from "./component-lifecycle"; //Які ви знаєте методи життєвого циклу компонента?
+import { lifecycleAjax } from "./lifecycle-ajax"; //В якому методі життєвого циклу компонента краще робити запити на сервер? Чому?
+import { lifecycleHandler } from "./lifecycle-handler"; //В якому методі життєвого циклу компонента краще робити підписку і відписку від лістенера? Чому? Навіщо відписуватися?
+
+
+
 
 
 
