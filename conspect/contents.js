@@ -100,6 +100,9 @@ import { reactRefs } from "./react-refs"; //Коли й для чого вико
 import { componentLifecycle } from "./component-lifecycle"; //Які ви знаєте методи життєвого циклу компонента?
 import { lifecycleAjax } from "./lifecycle-ajax"; //В якому методі життєвого циклу компонента краще робити запити на сервер? Чому?
 import { lifecycleHandler } from "./lifecycle-handler"; //В якому методі життєвого циклу компонента краще робити підписку і відписку від лістенера? Чому? Навіщо відписуватися?
+import { reactContext } from "./react-context"; //Чи був досвід роботи з контекстом? Коли його варто використовувати?
+import { pureComponent } from "./pure-component"; //У чому особливість PureComponent?
+
 
 
 
