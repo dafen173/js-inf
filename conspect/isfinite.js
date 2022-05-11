@@ -16,7 +16,9 @@ export const isFiniteItem = 'https://learn.javascript.ru/number#proverka-isfinit
 // Нужна ли нам эта функция? Разве не можем ли мы просто сравнить === NaN? К сожалению, нет. Значение NaN уникально тем, что оно не является равным ни чему другому, даже самому себе:
 
 // alert( NaN === NaN ); // false
-// isFinite(value) преобразует аргумент в число и возвращает true, если оно является обычным числом, т.е. не NaN/Infinity/-Infinity:
+
+// isFinite(value) преобразует аргумент в число и возвращает true, если оно является обычным числом, 
+//т.е. не NaN/Infinity/-Infinity:
 
 // alert( isFinite("15") ); // true
 // alert( isFinite("str") ); // false, потому что специальное значение: NaN

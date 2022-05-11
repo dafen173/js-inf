@@ -1,19 +1,20 @@
 
-
-
-
-var f = function() {
-    console.log(1);
+const getExstention = (filename) => {
+  if (typeof filename !== 'string') {
+    throw new Error ('Invalid type of parameter')
   }
-  
-var execute = function(f) {
-//setTimeout(f, 1000);
+
+  const parts = filename.split('.')
+
+  console.log(parts)
+
+  return parts.length === 1 ? null : parts[parts.length - 1]
 }
 
-execute(f); // что выведет в консоль и почему
+console.log(getExstention('fffffexe'))
 
-// f = function() {
-//   console.log(2);
-// }
+getExstention('kkkkk.fffff.exe')
 
-console.log(555551);
+//console.log(getExstention(777))
+
+//=============================================================

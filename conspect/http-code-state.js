@@ -1,5 +1,10 @@
 export const httpState = 'https://ru.w3docs.com/uchebnik-html/kody-sostoianiia-http.html'
 
+//1xx - Информация
+//2xx - Успех
+//3xx - Перенаправление
+//4xx - Ошибка клиента
+//5xx - Ошибка сервера
 
 
 // Коды состояния HTTP

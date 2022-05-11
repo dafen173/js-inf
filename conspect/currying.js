@@ -1,4 +1,4 @@
-export const currying = 'https://learn.javascript.ru/currying-partials'
+//export const currying = 'https://learn.javascript.ru/currying-partials'
 
 
 // Каррирование - это процесс в функциональном программировании, в котором мы можем преобразовать функцию с несколькими аргументами в последовательность вложенных функций - она возвращает новую функцию, которая ожидает следующий встроенный аргумент.
@@ -8,6 +8,14 @@ export const currying = 'https://learn.javascript.ru/currying-partials'
 // Каррирование создает вложенные функции в соответствии с количеством аргументов функции, поэтому каждая функция получает аргумент. Если аргумента нет, каррирование не выполняется.
 
 
+//Пример
+const add = (a, b) => {
+    if (b !== undefined) return a + b
+    return c => c + a
+    //return c => c
+}
 
+console.log(add (3,15) ) // 18
+console.log(add (3)(7) ) // 10
 
 
