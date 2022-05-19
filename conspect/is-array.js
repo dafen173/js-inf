@@ -1,8 +1,6 @@
 export const isArrayItem = 'https://learn.javascript.ru/array-methods#array-isarray'
 
 
-
-
 // Array.isArray()
 // isArray() - чи є об'єкт масивом.
 
@@ -17,7 +15,6 @@ export const isArrayItem = 'https://learn.javascript.ru/array-methods#array-isar
 // Даний метод не підтримують старі браузери.
 
 // Приклад:
-
 // Array.isArray([]); //true
 // Array.isArray(new Array()); //true
 // Array.isArray(Array.prototype); //true

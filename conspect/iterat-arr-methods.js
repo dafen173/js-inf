@@ -10,8 +10,6 @@ export const iteratArrMethods = 'https://maxello.gitbooks.io/js-note/content/06_
 // reduce/reduceRight – для прохода по массиву с вычислением значения.
 
 
-
-
 // Метод filter( )
 // Источник: https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Array/filter
 

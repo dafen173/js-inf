@@ -16,7 +16,7 @@ import { cookie } from "./cookies"; // cookies, что это и какой ма
 // use strict, что это такое
 import { useStrict } from "./use-strict"; // use strict, что это такое 
 // JS front-end VC JS back-end. Чим JS відрізняється під час роботи на front-end і back-end?
-import { frontVcBack } from "./front-vc-back"; // Чим JS відрізняється під час роботи на front-end і back-end?
+import { frontVcBack } from "./front-vc-back"; //Чим JS відрізняється під час роботи на front-end і back-end?
 // deep clone для об’єкта. Напишіть deep clone для об’єкта. Що означає глибока (deep) та поверхнева (shallow) копія об’єкта? Як зробити кожну з них?
 import { deepCloneObj } from "./deep-clone-obj"; // Напишіть deep clone для об’єкта. Що означає глибока (deep) та поверхнева (shallow) копія об’єкта? Як зробити кожну з них?
 //способи копіювання простого об’єкта. Розкажіть, які є способи копіювання простого об’єкта типу obj = {a: 1, b: 2, c: 3}
@@ -36,11 +36,11 @@ import { hoistingFunc } from "./hoisting-func"; // Поднятие функци
 // Стрелочные функции 
 import { arrowFunc } from "./arrow-func"; // Стрелочные функции 
 //ДЕБАГГЕР. Як шукати помилки в коді? Чи використовуєте дебагер?
-import { debag } from "./debag"; //!!!!!!!!  Як шукати помилки в коді? Чи використовуєте дебагер?
+import { debag } from "./debag"; //Як шукати помилки в коді? Чи використовуєте дебагер?
 //обратный вызов (callbacks)
 import { callback } from "./callback"; //обратный вызов (callbacks)
 //замыкание (closures)
-import { closure } from "./closure";//!!!!!!!!      замыкание (closures)
+import { closure } from "./closure";//!!!!(досмотреть практические примеры) замыкание (closures)
 //анонимная функция
 import { anonymFunc } from "./anonymous-func"; //Что такое анонимная функция
 //Функция высшего порядка
@@ -133,12 +133,15 @@ import { offsetHeightLeftTop } from "./offset-height-left-top"; //Як отри�
 import { webpack } from "./webpack"; //Що таке webpack?
 //dev-збірка vc prod. Чим відрізняється dev-збірка від prod?
 import { devProd } from "./dev-prod"; //Чим відрізняється dev-збірка від prod?
+//DOMContentLoaded
+import { DOMContentLoaded } from "./dom-conten-loaded";
 
 // DRY   KISS  YAGNI  SOLID  SLAP
 import { dry } from "./dry"; // DRY принцип
 import { kissYagni } from "./kiss-yagni"; //  KISS и YAGNI принципы
-import { solid } from "./solid.js"; // SOLID принцип
 import { slap } from "./slap"; //SLAP принцип
+import { solid } from "./solid.js"; // SOLID принцип
+import { oop } from "./oop"; //OOP
 
 // CSS
 //https://chm.org.ua/css-interview/
@@ -191,9 +194,10 @@ import { codemod } from "./codemode"; //Що таке codemod?
 //Backend
 //REPL. Що таке REPL?
 import { repl } from "./repl"; //Що таке REPL?
-
-
-
+//Middleware. Що таке middleware?
+import { middleware } from "./middleware"; //Що таке middleware?
+//token based authentication. Що таке token based authentication?
+import { tokenBaseAauth } from "./token-based-auth";
 
 
 

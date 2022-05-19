@@ -1,7 +1,6 @@
 export const setTimeoutInterval = 'https://learn.javascript.ru/settimeout-setinterval'
 
 
-
 //Планирование: setTimeout и setInterval
 //Мы можем вызвать функцию не в данный момент, а позже, 
 //через заданный интервал времени. Это называется «планирование 

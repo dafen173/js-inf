@@ -58,4 +58,10 @@ export const memoSelectors = 'https://medium.com/devschacht/neil-fenton-improvin
 //когда операции не зависят от изменений состояния.
 
 
+//пример useMemo
+
+//https://codepen.io/dafen/pen/XWePGNB
+
+
+
 
