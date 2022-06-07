@@ -18,4 +18,25 @@ export const numberIsnanVcIsnanFunc ='https://www.jsexpert.net/handbook/javascri
 
 
 
+console.log(+true); // 1
+console.log(+'2'); // 2
+console.log(+2); // 2
+console.log(+null); // 0
+console.log(+{}); // NaN
+console.log(+[]); // 0
+console.log(+undefined); // NaN
+console.log(+'a'); // NaN
+
+
+let arr = [2, 4, NaN, 12];
+arr.indexOf(NaN); // -1
+arr.includes(NaN); // true
+
+//До речі, якщо в масиві одне з значень буде NaN, то indexOf(NaN) 
+//поверне -1, а от includes(NaN) поверне true:
+
+// let arr = [2, 4, NaN, 12];
+// arr.indexOf(NaN); // -1
+// arr.includes(NaN); // true
+
 
