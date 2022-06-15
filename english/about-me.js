@@ -17,6 +17,22 @@ Therefore, it would be just saving and wonderful to improve and develop my knowl
 
 
 
+Wrote and launched a telegram bot for CTC Capital UA (my current place
+of work from 2008). With it, you can find out our exchange rate, the next
+arrivals of goods to our warehouse, quickly calculate the sides of the
+screen in relation to the format, etc.
+Used Telegram API and Node.js.
+
+Created Memory - Pair Game — a card game in which all of the cards are
+laid face down on a surface and two cards are flipped face up over each
+turn. The object of the game is to turn over pairs of matching cards. The
+game ends when the last pair has been picked up.
+
+I mostly watch YouTube courses.
+
+
+
+
 ПРО СЕБЯ - ОСНОВНОЙ ШАБЛОН
 My name is Alexander.
 For more than 10 years, I keep working in a company related to the distribution of AV equipment.
