@@ -30,7 +30,8 @@ game ends when the last pair has been picked up.
 
 I mostly watch YouTube courses.
 
-
+National Technical University of Ukraine “Igor Sikorsky Kyiv Polytechnic Institute”
+Department of Sound Engineering and Information Registration
 
 
 ПРО СЕБЯ - ОСНОВНОЙ ШАБЛОН
