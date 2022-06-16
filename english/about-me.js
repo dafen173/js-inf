@@ -37,7 +37,7 @@ Department of Sound Engineering and Information Registration
 ПРО СЕБЯ - ОСНОВНОЙ ШАБЛОН
 My name is Alexander.
 For more than 10 years, I keep working in a company related to the distribution of AV equipment.
-About 6 years ago, I started to learn HTML and CSS using the HTML ACADEMY resource. Then I studied JS at FreeCodeCamp. 
+About three years ago, I started to learn HTML and CSS using the HTML ACADEMY resource. Then I studied JS at FreeCodeCamp. 
 But I studied FrontEnd more fully in courses from Udacity and Cottans. The course from Cottans was very deep and detailed and was not limited by time frames, I completed it in 2021.
 By this time I have completed several pet projects.
 One of them - made on pure JS - is a memory pair card game (in this game you need to remember and find a couple of cards - a brand card and a product card that matches this brand; you can only turn over one pair of cards per attempt, if they do not match they are turned back, back to the player)
@@ -50,6 +50,7 @@ This is a site with two pages. One with a list of users, and the second with a l
 When changing the list of groups, on the groups page, the list of groups should immediately change when creating a user, on the users page.
 And if at least one user is added to the group, then this group cannot be deleted.
 
+this is the main information about me at the moment in the context of front-end development
 
 
 МОЙ ОБЫЧНЫЙ ДЕНЬ
