@@ -2,7 +2,12 @@
 /* 
 
 МОТИВАЦИОННОЕ ПИСЬМО
-Меня зовут Александр. Я живу со своею женой и двумя детьми в Киеве.  Уже больше 10 лет я работаю в компании связанной с дистрибуцией аудио видео оборудования. Примерно три года назал я начал изучать фронт енд разработку.
+Меня зовут Александр. Я живу со своею женой и двумя детьми в Киеве.  
+Уже больше 10 лет я работаю в компании связанной с дистрибуцией аудио видео оборудования. 
+До войны в свободное время я увлекался игрой на гитаре, в основном играл тяжелый метал. 
+Также увлекался волейболом, я игрок и управленец одной из команд м аматорской лиге Киева.
+
+Примерно три года назал я начал изучать фронт енд разработку.
 Потом начались война. 
 С этого момента, прибыль  компании, в которой я работаю, уменьшилась просто катастрофически. По этой причине мой доход сократился примерно на 60-70%. Меня вынужденно перевели на неполный рабочий график (2 дня в неделю). С момента вторжения мою жену отправили в отпуск за свой счет. Только с конца мая она вышла на работу в режиме не полной занятости. Ее доходы тоже сократились примерно на 50-60%.
 Поэтому было бы просто спаситетельно и замечательно улучшить и развить мои знания и получить возможность зарабатывать в сфере фронт энд разработки!
@@ -164,13 +169,56 @@ Well, then I became interested in the work of Stephen King. What I liked the mos
 
 
 
+
 Что входит в мои обязанности на работе
+
+Развитие и поддержка дилерской сети.
+Просчет и подбор оборудования под заданное техническое задание.
+Обучение и углубленные консультации дилеров.
+Техническая поддержка проектов с нашим оборудованием на всех этапах реализации.
+
+
+What are your job responsibilities?
+
+Development and support of the dealer network.
+Calculation and selection of equipment for a given technical task.
+Training and in-depth consultations of dealers.
+Technical support for projects with our equipment at all stages of implementation.
+
+
+
+
+Взаимодействие с заказчиком с целью выявления потребностей;
+Формулирование ТЗ для технических исполнителей;
+Управление задачами в рамках проектов, прием работ от исполнителей, контроль сроков и качества выполнения;
+Одновременное управление несколькими проектами;
+Обучение и углубленные консультации пользователей.
+
+
+Разработка отдельных разделов (частей) проекта, выпуск рабочей проектной документации.
+Участие в подготовке заданий на разработку проектных решений.
+Участие в сборе исходных данных для проектирования, в решении технических вопросов на протяжении всего периода проектирования, монтажа и ввода в действие объекта.
+Обеспечение соответствия разрабатываемых проектов и технической документации по внутренним и отраслевым стандартам, техническим условиям и другим нормативным требованиям по проектированию и инсталляции, а также техническому заданию.
+Выпуск итоговой исполнительной проектной документации.
+
+
+
+
+
+
+My name is Alexander. I live with my wife and two children in Kyiv. For more than 10 years I have been working in a company related to the distribution of audio video equipment. Before the war, in my free time, I was fond of playing the guitar, mainly playing heavy metal. I was also fond of volleyball, I am a player and manager of one of the teams in the amateur league in Kyiv.
+About 3 years ago, I started learning front-end development.
+I learned HTML and CSS using the HTML ACADEMY resource. Then I studied JS at FreeCodeCamp. 
+But I studied FrontEnd more fully in courses from Udacity and Cottans. The course from Cottans was very deep and detailed and was not limited by time frames, I completed it in 2021. Then the war began.
+Since that moment, the profit of the company I work for has decreased catastrophically. Therefore, it would be just saving and wonderful to improve and develop my knowledge and get the opportunity to earn money in the field of front-end development!
 
 
 
 
 
  */
+
+
 
 
 
