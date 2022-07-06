@@ -231,7 +231,15 @@ At the moment, no one in this group knows much about me. Therefore, I can say th
  love with playing basketball for a long time.
 
 
+I guess that's all I can say on this subject.
+maybe
 
+I have the same!
+
+I started to get involved
+
+I agree!
+I've become interested in this topic too.
 
 
  */
