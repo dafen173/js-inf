@@ -214,6 +214,24 @@ Since that moment, the profit of the company I work for has decreased catastroph
 
 
 
+My name is Alexander, you can just Alex. I work in the field of 
+AV equipment and at the same time I study web development. 
+I want to improve my English. I can help you with Russian.
+
+since I have a wife and two children, I like to travel with the appropriate comfort. by plane or train. 
+these are mainly places where there is a sea, hot weather and conditions for families with children.
+
+Such a challenge is happening right now. This is the ability to avoid the ruin of the 
+company in which I work, in the conditions of war in our country.
+
+At the moment, no one in this group knows much about me. Therefore, I can say that,
+ for example, I like to play volleyball, before the war I played in an amateur league 
+ team in the city of Kyiv, but I don’t like to watch it on TV. But I really like to 
+ watch basketball, I have been following the NBA for a long time, but I fell out of 
+ love with playing basketball for a long time.
+
+
+
 
 
  */
