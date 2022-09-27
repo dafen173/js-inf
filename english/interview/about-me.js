@@ -49,7 +49,7 @@ tell us a little about yourself?
 My name is Alexander.
 For more than 10 years, I keep working in a company related to the distribution of AV equipment.
 About three years ago, I started to learn HTML and CSS using the HTML ACADEMY resource. Then I studied JS at FreeCodeCamp. 
-But I studied FrontEnd more fully in courses from Udacity and Cottans. The course from Cottans was very deep and detailed and was not limited by time frames, I completed it in 2021.
+But I studied FrontEnd more fully in courses from Udacity and Kottans. The course from Kottans was very deep and detailed and was not limited by time frames, I completed it in 2021.
 By this time I have completed several pet projects.
 One of them - made on pure JS - is a memory pair card game (in this game you need to remember and find a couple of cards - a brand card and a product card that matches this brand; you can only turn over one pair of cards per attempt, if they do not match they are turned back, back to the player)
 Another pet project is a telegram bot that I wrote for an AV company where I still work. It is written using Node JS and telegram bot API. This Bot allows you to find out the latest company news, commercial exchange rates and also has a calculator that allows you to find all sides and diagonal of a projection screen or TV display according to a given format and one of the sides or diagonal.
@@ -206,11 +206,17 @@ Technical support for projects with our equipment at all stages of implementatio
 
 
 
-My name is Alexander. I live with my wife and two children in Kyiv. For more than 10 years I have been working in a company related to the distribution of audio video equipment. Before the war, in my free time, I was fond of playing the guitar, mainly playing heavy metal. I was also fond of volleyball, I am a player and manager of one of the teams in the amateur league in Kyiv.
+My name is Alexander. I live with my wife and two children in Kyiv. For more than 10 years I have been working in 
+a company related to the distribution of audio video equipment. 
+Before the war, in my free time, I was fond of playing the guitar, mainly playing heavy metal. I was also fond of volleyball, I am a player and manager of one of the teams in the amateur league in Kyiv.
+But now I spend all my free time studying English.
+
+
 About 3 years ago, I started learning front-end development.
 I learned HTML and CSS using the HTML ACADEMY resource. Then I studied JS at FreeCodeCamp. 
-But I studied FrontEnd more fully in courses from Udacity and Cottans. The course from Cottans was very deep and detailed and was not limited by time frames, I completed it in 2021. Then the war began.
+But I studied FrontEnd more fully in courses from Udacity and Kottans. The course from Kottans was very deep and detailed and was not limited by time frames, I completed it in 2021. Then the war began.
 Since that moment, the profit of the company I work for has decreased catastrophically. Therefore, it would be just saving and wonderful to improve and develop my knowledge and get the opportunity to earn money in the field of front-end development!
+
 
 
 
@@ -240,6 +246,27 @@ I started to get involved
 
 I agree!
 I've become interested in this topic too.
+
+
+
+
+
+Hello! My name is Alexander. I live with my wife and two children in Kyiv. For more than 10 years I have been working in 
+a company related to the distribution of audio video equipment. 
+About 3 years ago, I started learning front-end development.
+I learned HTML and CSS using the HTML ACADEMY resource. Then I studied JS at FreeCodeCamp. 
+But I studied FrontEnd more fully in courses from Udacity and Kottans. The course from Kottans was very deep and detailed and was not limited by time frames, I completed it in 2021. Then the war began.
+Since that moment, the profit of the company I work for has decreased catastrophically. Therefore, it would be just saving and wonderful to improve and develop my knowledge and get the opportunity to earn money in the field of front-end development!
+
+
+
+Hello! My name is Olexandr. About 3 years ago, I started learning front-end development.
+I learned HTML and CSS using the HTML ACADEMY resource. Then I studied JS at FreeCodeCamp. 
+But I studied FrontEnd more fully in courses from Udacity and Kottans. The course from Kottans was very deep and detailed and was not limited by time frames, I completed it in 2021. Then the war began.
+Since that moment, the profit of the company I work for has decreased catastrophically. Therefore, it would be just saving and wonderful to improve and develop my knowledge and get the opportunity to earn money in the field of front-end development!
+
+
+Look towards the front-end, I was advised by a friend (an experienced PM manager).
 
 
  */
