@@ -34,3 +34,4 @@ export const isFiniteItem = 'https://learn.javascript.ru/number#proverka-isfinit
 // Помните, что пустая строка интерпретируется как 0 во всех числовых функциях, включаяisFinite.
 
 
+import { contents } from "./contents"

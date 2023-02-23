@@ -22,3 +22,4 @@ export const isArrayItem = 'https://learn.javascript.ru/array-methods#array-isar
 // Array.isArray(4); //false
 
 
+import { contents } from "./contents"

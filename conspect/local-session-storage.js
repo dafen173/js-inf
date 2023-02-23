@@ -26,7 +26,7 @@ export const localSessionStorage = 'https://learn.javascript.ru/localstorage'
 // key(index) – получить ключ на заданной позиции.
 // length – количество элементов в хранилище.
 
-// Как видим, интерфейс похож на Map (setItem/getItem/removeItem), но также запоминается порядок элементов, 
+// Как видим, интерфейс похож на Map (setItem/getItem/removeItem), но также запоминается порядок элементов,
 //и можно получить доступ к элементу по индексу – key(index).
 
 // sessionStorage
@@ -69,3 +69,4 @@ export const localSessionStorage = 'https://learn.javascript.ru/localstorage'
 
 
 
+import { contents } from "./contents"

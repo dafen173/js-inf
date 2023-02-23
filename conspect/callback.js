@@ -3,13 +3,13 @@ export const callback = 'https://frontend-stuff.com/blog/javascript-cheatsheet/#
 
 
 
-//обратный вызов (callbacks): функция, которая доступная для другой функции 
+//обратный вызов (callbacks): функция, которая доступная для другой функции
 //и вызываемая после первой функции - если эта первая функция завершилась.
 
 
 //пример
 document.queryselector("#callback-btn")
-.addEventListener("click", function() {    
+.addEventListener("click", function() {
   console.log("User has clicked on the button!");
 });
 

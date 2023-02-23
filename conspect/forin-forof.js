@@ -1,5 +1,23 @@
 export const forinForof = ''
 
+
+
+// How to get Keys, Values, and Entries in JavaScript Object?
+// Object.keys(obj) – returns all the keys of object as array.
+// Object.values(obj) – returns all the values of the object as array.
+// Object.entries(obj) – returns an array of [key, value]
+
+
+
+/*
+Как достать свойство объекта JS?
+Чтобы получить доступ к свойству, мы можем использовать: Запись через точку: obj.property . Квадратные скобки obj["property"] .
+Квадратные скобки позволяют взять ключ из переменной, например, obj[varWithKey]
+*/
+
+
+
+
 //https://learn.javascript.ru/dom-navigation#dom-kollektsii
 // Не используйте цикл for..in для перебора коллекций
 // Коллекции перебираются циклом for..of. Некоторые начинающие разработчики пытаются использовать 
@@ -79,4 +97,4 @@ export const forinForof = ''
 //его перебора, т.е. не свойства объекта, а значения массива 3, 5, 7 .
 
 
-
+import { contents } from "./contents"

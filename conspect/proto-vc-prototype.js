@@ -1,7 +1,7 @@
 export const protoVcPrototype = 'https://habr.com/ru/post/140810/'
 
 
-// __proto__ любого значения (кроме null и undefined) ссылается на prototype соответствующего 
+// __proto__ любого значения (кроме null и undefined) ссылается на prototype соответствующего
 //ему типу данных:
 // (0).__proto__ === Number.prototype &&
 // false.__proto__ === Boolean.prototype &&
@@ -23,6 +23,21 @@ export const protoVcPrototype = 'https://habr.com/ru/post/140810/'
 
 // _proto_ - это свойство конкретного ОБЪЕКТА. В этом свойстве находится ссылка на объект 
 //его базового класса, т.е. на прототип этого объекта.
+
+
+// var animal = {
+//     eats: true
+//   };
+//   function Rabbit(name) {
+//     this.name = name;
+//   }
+//   Rabbit.prototype = animal;
+//   var rabbit = new Rabbit("Кроль"); //  rabbit.__proto__ == animal
+//   alert( rabbit.eats ); // true
+
+// Rabbit.prototype  // => {eats: true}
+// rabbit.__proto__  // => {eats: true}
+
 
 // Всё верно, пару дополнений, для лучшего понимания:
 // foo.prototype - не какой-то особый объект-прототип. Это самый обычный объект, который автоматически 
@@ -57,7 +72,7 @@ export const protoVcPrototype = 'https://habr.com/ru/post/140810/'
 // Свойство prototype
 // А чем же тогда является свойство prototype? Это обычное свойство, ничем не
 // отличающиеся от любых других свойств. За исключением двух особенностей:
-// 1) Функции в JavaScript имеют свойство prototype. Оно по умолчанию является объектом с 
+// 1) Функции в JavaScript имеют свойство prototype. Оно по умолчанию является объектом с
 //единственным свойством constructor, которое ссылается на саму функцию.
 // 2) Свойство prototype используется при создании новых объектов оператором new.
 
@@ -78,4 +93,4 @@ export const protoVcPrototype = 'https://habr.com/ru/post/140810/'
 
 
 
-
+import { contents } from "./contents"

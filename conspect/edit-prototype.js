@@ -42,5 +42,4 @@ if (!String.prototype.repeat) { // Если такого метода нет. Т
   alert( "La".repeat(3) ); // LaLaLa
 
 
-
-  
+import { contents } from "./contents";

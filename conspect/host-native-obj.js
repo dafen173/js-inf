@@ -10,11 +10,14 @@ export const hostNativeObj = ''
 // иногда называемые глобальными объектами; JS в основном создается с помощью этих 
 //категоризированных нативных объектов (String, Number и пр.).
 
+
 // Собственные объекты: Object (конструктор), Date, Math, parseInt, eval, строковые методы, 
 //такие как indexOf и replace, методы массивов,...
 
 // Объекты хоста (при условии среды браузера): window, document, location, history, XMLHttpRequest, 
 //setTimeout, getElementsByTagName, querySelectorAll,...
 
+
+import { contents } from "./contents"
 
 

@@ -1,6 +1,16 @@
 export const promisesVsAsyncAwait = 'https://frontend-stuff.com/blog/javascript-cheatsheet/#promises-vs-async--await'
 
 
+
+// "Producing code" is code that can take some time
+// "Consuming code" is code that must wait for the result
+// A Promise is a JavaScript object that links producing code and consuming code
+
+// A JavaScript Promise object contains both the producing code and calls to the consuming code:
+
+
+
+
 //Promises vs Async / Await
 //область действия: в promise асинхронна только цепочка обещаний
 // - она не блокирует выполнение; с async/await 

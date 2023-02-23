@@ -23,3 +23,4 @@ export const pureFunc = 'https://ru.hexlet.io/courses/js-functions/lessons/pure-
 //Reducer пример чистой ф-ции в React
 
 
+import { contents } from "./contents"

@@ -25,5 +25,5 @@ console.log(r.getName()) // Uncaught TypeError: r.getName is not a function
 
 
 
-
+import { contents } from "./contents";
 

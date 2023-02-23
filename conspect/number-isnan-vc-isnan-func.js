@@ -40,3 +40,4 @@ arr.includes(NaN); // true
 // arr.includes(NaN); // true
 
 
+import { contents } from "./contents";

@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Nikandrov CV</title>
+        <link rel="stylesheet" href="./assets/styles.css">
+    </head>
+    <body>
+        <header class="container">
+            <section class="info">
+                <img src="https://dafen173.github.io/rsschool-cv/my-photo2.jpg" alt="My photo" class="avatar">
+                <div class="info-text">
+                    <h1>Olexandr Nikandrov</h1>
+                    <p><strong>Junior Front End Developer</strong></p>
+
+                    <ul class="list">
+                        <li>Kyiv, Ukraine</li>
+                        <li>+380974698757 (Telegram, Viber)</li>
+                        <li>Discord: Olexandr Nikandrov (dafen173)</li>
+                        <li><a href="mailto:dafen@ukr.net" target="_blank">dafen@ukr.net</a></li>
+                        <li><a href="https://www.linkedin.com/in/olexandr-nikandrov-a0175875?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BBzmhToCCTe22u92fjoUE2w%3D%3D"
+                            target="_blank">LinkedIn</a></li>
+                    </ul>
+                </div>
+            </section>
+        </header>
+        <main class="container">
+            <section class="card bg-odd">
+                <h2>About Me</h2>
+                <p>About three years ago, I started to learn HTML and CSS using the HTML Academy resource. Then I learned JS using FreeCodeCamp and Udacity.</p>
+            </section>
+            <section class="card bg-even">
+                <h2>Skills</h2>
+                <ol class="list">
+                    <li>React, Redux</li>
+                    <li>Javascript ES6, HTML5, CSS3, Bootstrap</li>
+                    <li>Node.js</li>
+                    <li>REST API</li>
+                    <li>JSON, XML, AJAX</li>
+                    <li>Git, Github</li>
+                    <li>PostgreSQL, MongoDB</li>
+                    <li>Understanding principles of OOP and functional programming</li>
+                    <li>NPM scripts, Webpack, Parcel, Babel, Prettier</li>
+                    <li>Postman (beginner), Docker (beginner)</li>
+                </ol>
+            </section>
+            <section class="card bg-odd">
+                <h2>Code Example</h2>
+                <pre>
+                    <code>
+                        function deepCount(a){
+                            let res = 0
+                            res += a.length
+
+                            function calc (arr){
+                            for (let i = 0; i &lt; arr.length; i++){
+                                if ( Array.isArray(arr[i]) ){
+                                res += arr[i].length
+                                calc(arr[i])
+                                }
+                            }
+                            }
+
+                            calc (a)
+                            return res
+                        }
+
+                        console.log(deepCount( [1, 7, 2, [3, 7], [4, 8, 9]] ))  // 10
+                    </code>
+                </pre>
+            </section>
+            <section class="card bg-even">
+                <h2>Experience</h2>
+                <h4>Project 1.</h4>
+                <p>This project is a customer management system built with React, Node.js,
+                    Express, PostgreSQL and Redux.</p>
+                <p>Initial task condition Create a simple website with two pages:
+                    List of Users, List of Groups for Users. Description of the first page:
+                    List of Users consist of: username, created,group, actions. username –
+                    User nickname created – Date of creating the user group - Group, to which the user
+                    will be added actions – two buttons 'Edit' and 'Delete' Also, under the list, there
+                    should be a button 'Add User' for editing and adding new pages with such fields:
+                    username (text input) and group(select). Description of the second page: The list
+                    of groups should consist of: ID, Name,Description, Actions. Actions – Edit and Delete
+                    buttons Also, under the list,there should be a button Add Group For editing and adding
+                    new pages with such fields: Name (text input) and Description (text input).
+                    Group deletion is impossible if the user is assigned to
+                    this group. <a target="_blank" href="https://github.com/dafen173/react-redux-user-manage">
+                                Link to this project.</a></p>
+                <hr>
+                <h4>Project 2.</h4>
+                <p>Wrote and launched a telegram bot for CTC Capital UA (my current place of work from 2008).
+                    With it, you can find out our exchange rate, the next arrivals of goods to our warehouse,
+                    quickly calculate the sides of the screen in relation to the format, etc.
+                    Used Telegram API and Node.js.
+                    <a target="_blank" href="https://github.com/dafen173/real-bot-ctc">
+                        Link to this project.</a></p>
+            </section>
+            <section class="card bg-odd">
+                <h2>Education</h2>
+                <ul class="list">
+                    <li><strong>Univercity:</strong></li>
+                    <li>National Technical University of Ukraine 'Kyiv Polytechnic Institute'.
+                        Faculty of Electronics. Department of Sound Engineering and Information Registration.</li>
+                </ul>
+                <hr>
+                <ul class="list">
+                    <li><strong>Courses:</strong></li>
+                    <li>HTML Academy</li>
+                    <li>FreeCodeCamp</li>
+                    <li>Udacity</li>
+                </ul>
+            </section>
+            <section class="card bg-even">
+                <h2>English</h2>
+                <p>A2 (Limited Working)</p>
+            </section>
+        </main>
+        <footer class="container">
+            <section class="footer">
+                <ol class="list footer-item">
+                    <li><a target="_blank" href="https://github.com/dafen173">
+                            <img src="./assets/footer-icon-github.svg" alt="My github" class="footer-link">
+                        </a>
+                    </li>
+                    <li><a target="_blank" href="https://rs.school/js/">
+                            <img src="./assets/footer-icon-rsschool.svg" alt="RS school" class="footer-link">
+                        </a>
+                    </li>
+                </ol>
+                <h5 class="footer-item">Olexandr Nikandrov 2022</h5>
+            </section>
+        </footer>
+    </body>
+</html>

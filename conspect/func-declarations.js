@@ -18,4 +18,4 @@ export const funcDeclaration = 'https://learn.javascript.ru/function-expressions
 
 
 
-
+import { contents } from "./contents"

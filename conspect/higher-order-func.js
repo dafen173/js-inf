@@ -1,5 +1,7 @@
 export const higherOrderFunc = 'https://frontend-stuff.com/blog/javascript-cheatsheet/#%D1%87%D1%82%D0%BE-%D1%82%D0%B0%D0%BA%D0%BE%D0%B5-%D0%B0%D0%BD%D0%BE%D0%BD%D0%B8%D0%BC%D0%BD%D0%B0%D1%8F-%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D1%8F'
 
+import {contents} from './contents'
+
 
 // Функция высшего порядка - функция, которая получает функцию в качестве аргумента или 
 //возвращает функцию в качестве вывода. Например: Array.prototype.map, Array.prototype.filter и 
@@ -30,6 +32,9 @@ const sum = arr.reduce(function(accumulator, currentValue) {
 });
 // prints 25
 console.log(sum);
+
+
+
 
 
 

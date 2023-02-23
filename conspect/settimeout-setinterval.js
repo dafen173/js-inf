@@ -19,3 +19,4 @@ export const setTimeoutInterval = 'https://learn.javascript.ru/settimeout-setint
 //В частности, они поддерживаются во всех браузерах и Node.js.
 
 
+import { contents } from "./contents"

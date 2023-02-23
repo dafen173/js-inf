@@ -42,4 +42,4 @@ export const dry = 'https://webkyrs.info/page/printsip-dry'
 //каждое место, где есть дублирование кода. 
 
 
-
+import { contents } from "./contents"

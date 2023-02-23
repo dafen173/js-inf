@@ -34,4 +34,4 @@ export const mapSet = 'https://learn.javascript.ru/map-set'
 //по его номеру нельзя.
 
 
-
+import { contents } from "./contents"

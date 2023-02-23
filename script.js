@@ -3,15 +3,15 @@ const menubtn = document.getElementById('menubtn');
 const dropchild = document.getElementById('dropchild');
 menubtn.addEventListener("click", function(){
   dropchild.classList.toggle('open');
-});  
+});
 
-let inst = [{id:'section1', 
-			name:'6500 ANSI Lm на улице', 
+let inst = [{id:'section1',
+			name:'6500 ANSI Lm на улице',
 			description:'Работает проектор типа HITACHI CP-WX8265 3LCD  Lamp  1280х800   WXGA 6500lm  3600уе на экран шириной 3 м.', 
-			img:'img/first.png', 
+			img:'img/first.png',
 			img2:'img/0697.png'},
 
-			{id:'section2', 
+			{id:'section2',
 			name:'Сшивка двух ультракороткофокусных проекторов', 
 			description:'Работают два проектора типа OPTOMA X320UST	Lamp	1024x768	XGA	4000lm   1395уе (за 1шт). Видеосервер для сшивки изображений порядка 1500уе. С дистанции установки в 66 см получаем проекцию шириной 400 cм.', 
 			img:'img/543.png', 

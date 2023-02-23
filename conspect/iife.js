@@ -57,9 +57,9 @@ export const iife = 'https://learn.javascript.ru/closure#iife'
 // +function() {
 //   alert("Выражение начинается с унарного плюса");
 // }();
-// Во всех перечисленных случаях мы объявляем Function Expression и немедленно выполняем его. 
+// Во всех перечисленных случаях мы объявляем Function Expression и немедленно выполняем его.
 
 //Ещё раз заметим, что в настоящий момент нет необходимости писать подобный код.
 
 
-
+import { contents } from "./contents"

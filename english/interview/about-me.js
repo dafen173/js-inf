@@ -46,7 +46,7 @@ Department of Sound Engineering and Information Registration
 
 tell us a little about yourself?
 
-My name is Alexander.
+My name is Olexandr.
 For more than 10 years, I keep working in a company related to the distribution of AV equipment.
 About three years ago, I started to learn HTML and CSS using the HTML ACADEMY resource. Then I studied JS at FreeCodeCamp. 
 But I studied FrontEnd more fully in courses from Udacity and Kottans. The course from Kottans was very deep and detailed and was not limited by time frames, I completed it in 2021.

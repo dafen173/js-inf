@@ -43,4 +43,5 @@ product(downToOne(5)) // 120
 
 
 
+import { contents } from "./contents";
 

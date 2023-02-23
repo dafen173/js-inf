@@ -2,7 +2,7 @@ export const thisAtHandler = 'https://learn.javascript.ru/introduction-browser-e
 
 
 // Доступ к элементу через this
-// Внутри обработчика события this ссылается на текущий элемент, 
+// Внутри обработчика события this ссылается на текущий элемент,
 //то есть на тот, на котором, как говорят, «висит» (т.е. назначен) обработчик.
 
 // В коде ниже button выводит своё содержимое, используя this.innerHTML:
@@ -11,5 +11,7 @@ export const thisAtHandler = 'https://learn.javascript.ru/introduction-browser-e
 
 
 
+
+import { contents } from "./contents"
 
 
